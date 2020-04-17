@@ -22,7 +22,7 @@
             class="mr-4"
             @click="validate"
           >
-            Validate
+            Search
           </v-btn>
         </v-form>
       </div>
